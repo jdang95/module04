@@ -58,6 +58,10 @@ h1{
 				height: 10em;
 				margin-bottom: 1em;
 				background-color: #4b2e83;}
+img{
+  margin: 0 auto;}
+}
+
 h2 ,h1, a { 
    font-family: 'WaltographRegular'; 
    font-weight: normal; 
