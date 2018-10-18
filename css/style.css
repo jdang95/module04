@@ -1,0 +1,71 @@
+body {
+ background-image:url("https://easylife-online.com/wp-content/uploads/data/2018/1/5/black-abstract-wallpaper-for-iphone-For-Free-Wallpaper-PIC-WSW2044961.jpg");
+}
+			
+
+
+* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #000000;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+
+			#nav, #feature, #footer {
+				margin: 1%;}
+h1{
+ color: #ffffff; 
+}
+
+
+			.column1 {
+			  background-color: #d9d9d9;
+				width: 31.3%;
+        height: 5cm;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+
+       .column2{
+			  background-color: #444444;
+				width: 31.3%;
+         height: 5cm;
+				float: left;
+				margin: 1%;}
+
+       .column3 {
+			  background-color: #ffffff;
+				width: 31.3%;
+         height: 5cm;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+		
+
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #85754d;
+				padding: 0.5em 0;}
+
+			#feature{
+
+			  
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #4b2e83;}
+p ,h1 { 
+   font-family: 'WaltographRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+
+
+
