@@ -1,5 +1,6 @@
 body {
  background-image:url("https://easylife-online.com/wp-content/uploads/data/2018/1/5/black-abstract-wallpaper-for-iphone-For-Free-Wallpaper-PIC-WSW2044961.jpg");
+   background-size:contain;
 }
 			
 
@@ -58,16 +59,11 @@ h1{
 				height: 10em;
 				margin-bottom: 1em;
 				background-color: #4b2e83;}
-img{
-  margin: 0 auto;}
-}
 
-h2 ,h1, a { 
+     
+h2 ,h1, a{ 
    font-family: 'WaltographRegular'; 
    font-weight: normal; 
    font-style: normal; 
 }
-
-
-
 
